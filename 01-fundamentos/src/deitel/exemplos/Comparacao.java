@@ -52,8 +52,10 @@ public class Comparacao {
             System.out.print("Menor ou igual : ");
             System.out.printf("%d <= %d", num01, num02);
         }
+        entrada.close();
 
     }
+
 }
 /*Metodos mais usados da classe Scanner :
  * nextInt(): lê um inteiro

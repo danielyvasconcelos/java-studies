@@ -70,6 +70,8 @@ public class MaiorMenor {
          System.out.print("O numero menor é :");
          System.out.printf("%d\n", menor);
 
+         entrada1.close();
+
     }
     
 }
