@@ -13,6 +13,7 @@ public class Produto {
         int result;
         // d) Solicite que o usuário insira o primeiro inteiro.
         System.out.println("Insira o valor de x: ");
+
          // e) Leia o primeiro inteiro digitado pelo usuário e armazene-o na variável x.
         x = entrada.nextInt();
 
@@ -30,9 +31,11 @@ public class Produto {
         result = x*y*z;
         // k) Exiba a mensagem "Product is" seguida pelo valor da variável result */
         System.out.print("O produto de dos valores x, y e z é : ");
+
         System.out.printf("%d\n", result);  
 
+
         entrada.close();
-    }
+}
 
 }

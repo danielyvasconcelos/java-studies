@@ -9,8 +9,8 @@ public class MaiorMenor {
         System.out.print("Insira o primeiro numero : ");
 
 
-        Scanner entrada1 = new Scanner(System.in);
-        int numero1 = entrada1.nextInt();
+        Scanner entrada = new Scanner(System.in);
+        int numero1 = entrada.nextInt();
         System.out.printf("%d\n", numero1);
 
         int maior;
@@ -22,7 +22,7 @@ public class MaiorMenor {
         
         System.out.print("Insira o segundo numero:");
         
-        int numero2= entrada1.nextInt();
+        int numero2= entrada.nextInt();
         System.out.printf("%d\n", numero2);
         if (numero2 > maior) {
             maior = numero2;           
@@ -32,7 +32,7 @@ public class MaiorMenor {
         }
 
         System.out.print("Insira o terceiro numero:");
-        int numero3= entrada1.nextInt();
+        int numero3= entrada.nextInt();
         System.out.printf("%d\n", numero3);
 
         if (numero3 > maior) {
@@ -43,7 +43,7 @@ public class MaiorMenor {
         }
 
         System.out.print("Insira o quarto numero:");
-        int numero4= entrada1.nextInt();
+        int numero4= entrada.nextInt();
         System.out.printf("%d\n", numero4);
 
         if (numero4 > maior) {
@@ -54,7 +54,7 @@ public class MaiorMenor {
         }
 
         System.out.print("Insira o quinto numero:");
-        int numero5= entrada1.nextInt();
+        int numero5= entrada.nextInt();
         System.out.printf("%d\n", numero5);
 
         if (numero5 > maior) {
@@ -70,7 +70,8 @@ public class MaiorMenor {
          System.out.print("O numero menor é :");
          System.out.printf("%d\n", menor);
 
-         entrada1.close();
+
+         entrada.close();
 
     }
     

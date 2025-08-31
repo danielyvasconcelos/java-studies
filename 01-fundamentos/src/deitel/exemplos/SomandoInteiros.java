@@ -19,7 +19,9 @@ public class SomandoInteiros {
         soma = num01 + num02;
         System.out.printf("O resultado é %d\n", soma); // exibe o valor por meio do print f
 
+
         input.close();
+
 
 
     }

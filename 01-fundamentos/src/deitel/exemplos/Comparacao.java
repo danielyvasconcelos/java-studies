@@ -54,6 +54,8 @@ public class Comparacao {
         }
         entrada.close();
 
+         entrada.close();
+
     }
 
 }
