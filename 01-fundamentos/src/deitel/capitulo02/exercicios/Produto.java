@@ -1,4 +1,4 @@
-package deitel.exercicios;
+package deitel.capitulo02.exercicios;
 
 import java.util.Scanner;
 // a) Declare que um programa calculará o produto de três inteiros.

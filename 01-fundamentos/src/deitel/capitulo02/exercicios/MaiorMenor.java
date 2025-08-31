@@ -1,4 +1,4 @@
-package deitel.exercicios;
+package deitel.capitulo02.exercicios;
 import java.util.Scanner;
 
 /*Enunciado : (Maiores e menores inteiros) Escreva um aplicativo que lê cinco inteiros, determina e imprime o maior e o menor inteiro no grupo. Utilize 
