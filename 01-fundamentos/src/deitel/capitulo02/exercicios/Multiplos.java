@@ -1,4 +1,4 @@
-package deitel.exercicios;
+package deitel.capitulo02.exercicios;
 import java.util.Scanner;
 
 /* Enunciado:  2.26 (Múltiplos) Escreva um aplicativo que lê dois inteiros, determina se o primeiro é um múltiplo do segundo e imprime o resultado. [Dica: utilize 

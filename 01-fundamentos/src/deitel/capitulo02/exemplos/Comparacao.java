@@ -1,4 +1,4 @@
-package deitel.exemplos;
+package deitel.capitulo02.exemplos;
 import java.util.Scanner;
 
 public class Comparacao {

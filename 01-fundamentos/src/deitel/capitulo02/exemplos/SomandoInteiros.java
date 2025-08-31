@@ -1,4 +1,4 @@
-package deitel.exemplos;
+package deitel.capitulo02.exemplos;
 import java.util.Scanner; // importa e utiliza a classe scanner do java que serve para obter a entrada 
 
 public class SomandoInteiros {

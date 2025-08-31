@@ -1,4 +1,4 @@
-package deitel.exemplos;
+package deitel.capitulo02.exemplos;
 //programa de impressão de texto
 public class Welcome { // classe definida pelo programador
     //método inicia a execução

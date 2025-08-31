@@ -1,4 +1,4 @@
-package deitel.exercicios;
+package deitel.capitulo02.exercicios;
 import java.util.Scanner;
 
   /*Enunciado:
